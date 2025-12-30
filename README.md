@@ -80,7 +80,8 @@ We believe in a collaborative engineering culture. If you'd like to help us grow
 
 # Meet Our Team
 ## 👥 Our Amazing Team
-| **Zahra** | [@Zahra-GitHub-Username](https://github.com/Zahra-GitHub-Username) |
-| **Friend Name 1** | [@Friend1](https://github.com/Friend1) |
-| **Friend Name 2** | [@Friend2](https://github.com/Friend2) |
-| **Friend Name 3** | [@Friend3](https://github.com/Friend3) |
+| **Zahra** | [@Ghulam-Zahra-GitHub-Username](https://github.com/Zahra-GitHub-Username) |
+| **M Ali** | [@Muhammad-Ali-GitHub-UserName](https://github.com/ali4xk) |
+| **M Muwahid** | [@Muhammad-Muwahid](https://github.com/Friend2) |
+| **Abdul Manan** | [@Abdul-Manan](https://github.com/Friend3) |
+| **Arooj Imtiaz** | [@Arooj-jutt](https://github.com/Friend3) |
