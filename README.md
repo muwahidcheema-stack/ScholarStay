@@ -63,3 +63,25 @@ Follow these steps to get the project running on your local machine:
 - [ ] **Hostel Rating System:** A transparent review system to help students make better choices.
 - [ ] **Direct Chat:** Real-time communication between owners and potential residents.
 - [ ] **Booking Management:** Online reservation system with deposit tracking.
+---
+
+## 🤝 Contributing
+We believe in a collaborative engineering culture. If you'd like to help us grow:
+
+1. **Fork** the Project.
+2. **Create** your Feature Branch:
+   ```bash
+   git checkout -b feature/NewAwesomeFeature
+3. **commit ur Changes**
+   <code> git commit -m 'Added a new feature' </code>
+4. **Push to the bramch**
+   git push origin feature/NewAwesomeFeature
+### 📜 License & Credit Ka Code:
+```markdown
+---
+
+## 📜 License
+Distributed under the **MIT License**.
+
+---
+**Developed with 💻 and Passion by Zahra & Team.** *Building tools for a better student community.*
