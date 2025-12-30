@@ -76,9 +76,6 @@ We believe in a collaborative engineering culture. If you'd like to help us grow
    <code> git commit -m 'Added a new feature' </code>
 4. **Push to the bramch**
    git push origin feature/NewAwesomeFeature
-### 📜 License & Credit:
-
-# Meet Our Team
 ## 👥 Our Amazing Team
 ---
 | **M Muwahid** | [@Muhammad-Muwahid](https://github.com/muwahidcheema-stack) |
@@ -90,3 +87,4 @@ We believe in a collaborative engineering culture. If you'd like to help us grow
 | **Zahra** | [@Ghulam-Zahra-GitHub-Username](https://github.com/Zahra-GitHub-Username) |
 ---
 | **Arooj Imtiaz** | [@Arooj-jutt](https://github.com/Friend3) |
+---
