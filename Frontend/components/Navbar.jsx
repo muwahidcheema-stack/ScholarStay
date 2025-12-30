@@ -1,22 +1,15 @@
 import React, { useState } from 'react';
-import { Menu, X, Home } from 'lucide-react'; // Home for the logo icon
-
-// Placeholder for the logo image. You should replace this path
-// with the actual path to your Scholars Stay logo image file.
+import { Menu, X, Home } from 'lucide-react'; 
 const logoImage = 'https://via.placeholder.com/40x50/ffffff?text=LOGO';
-
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
-
     const navItems = [
         { name: 'Home', href: '#home' },
         { name: 'About Us', href: '#about' },
         { name: 'Blog', href: '#blog' },
         { name: 'Contact', href: '#contact' },
     ];
-
     return (
-        // Main Container with a light gray background matching the image
         <nav className="w-full bg-gray-200/90 py-4 shadow-md backdrop-blur-sm">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-16">
@@ -37,7 +30,6 @@ export default function Navbar() {
                             </div>
                         </div>
                     </a>
-
                     {/* Desktop Navigation Links (Center) */}
                     <div className="hidden md:flex md:space-x-12 items-center">
                         {navItems.map((item) => (
@@ -51,7 +43,6 @@ export default function Navbar() {
                             </a>
                         ))}
                     </div>
-
                     {/* Button Section (Right Side) */}
                     <div className="hidden md:flex items-center">
                         <button
@@ -61,7 +52,6 @@ export default function Navbar() {
                             Get Started
                         </button>
                     </div>
-
                     {/* Mobile Menu Button */}
                     <div className="md:hidden">
                         <button
@@ -74,7 +64,6 @@ export default function Navbar() {
                     </div>
                 </div>
             </div>
-
             {/* Mobile Menu Dropdown */}
             {isOpen && (
                 <div className="md:hidden">
