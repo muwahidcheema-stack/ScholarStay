@@ -76,12 +76,11 @@ We believe in a collaborative engineering culture. If you'd like to help us grow
    <code> git commit -m 'Added a new feature' </code>
 4. **Push to the bramch**
    git push origin feature/NewAwesomeFeature
-### 📜 License & Credit Ka Code:
-```markdown
----
+### 📜 License & Credit:
 
-## 📜 License
-Distributed under the **MIT License**.
-
----
-**Developed with 💻 and Passion by Zahra & Team.** *Building tools for a better student community.*
+# Meet Our Team
+## 👥 Our Amazing Team
+| **Zahra** | [@Zahra-GitHub-Username](https://github.com/Zahra-GitHub-Username) |
+| **Friend Name 1** | [@Friend1](https://github.com/Friend1) |
+| **Friend Name 2** | [@Friend2](https://github.com/Friend2) |
+| **Friend Name 3** | [@Friend3](https://github.com/Friend3) |
