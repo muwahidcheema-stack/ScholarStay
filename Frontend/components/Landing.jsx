@@ -12,7 +12,6 @@ export default function Landing() {
         password: '',
         oneTimeCode: ''
     });
-
     // Removed TypeScript type annotation for 'e'
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -73,7 +72,7 @@ export default function Landing() {
                                 </div>
                             </div>
                         </div>
-
+                        
                         {/* Pagination Dots */}
                         <div className="flex gap-2 justify-center">
                             <div className="w-2 h-2 rounded-full bg-white"></div>
@@ -156,7 +155,6 @@ export default function Landing() {
                                         className="w-full px-4 py-3 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
                                     />
                                 </div>
-
                                 {/* Email Address */}
                                 <div className="mb-5">
                                     <label htmlFor="email" className="block text-gray-700 text-sm mb-2">
