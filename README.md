@@ -44,3 +44,22 @@ Follow these steps to get the project running on your local machine:
 1. **Clone the Repo:**
    ```bash
    git clone [https://github.com/muwahidcheema-stack/Scholar-Stay.git](https://github.com/muwahidcheema-stack/Scholar-Stay.git)
+
+---
+2.**Install Dependencies:**
+
+<code> Bash </code>
+<code> npm install </code> 
+
+---
+3. **Launch the App:**
+
+<code>Bash</code>
+<code> npm run dev </code>
+
+## 🗺️ Future Roadmap
+- [ ] **Google Maps Integration:** To see exact distances from your university campus.
+- [ ] **User Authentication:** Secure login for Students and Hostel Owners via Firebase/JWT.
+- [ ] **Hostel Rating System:** A transparent review system to help students make better choices.
+- [ ] **Direct Chat:** Real-time communication between owners and potential residents.
+- [ ] **Booking Management:** Online reservation system with deposit tracking.
