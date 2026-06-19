@@ -84,7 +84,5 @@ We believe in a collaborative engineering culture. If you'd like to help us grow
 ---
 | **M Ali** | [@Muhammad-Ali-GitHub-UserName](https://github.com/ali4xk) |
 ---
-| **Zahra** | [@Ghulam-Zahra-GitHub-Username](https://github.com/Zahra-GitHub-Username) |
----
 | **Arooj Imtiaz** | [@Arooj-jutt](https://github.com/Friend3) |
 ---
